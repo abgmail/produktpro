@@ -1,0 +1,3 @@
+[submodule "apps/admin"]
+	path = apps/admin
+	url = git@github.com:abgmail/produktpro-admin.git
